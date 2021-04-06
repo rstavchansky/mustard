@@ -1,2 +1,2 @@
 # mustard
-The perfect kick-start to your own Design Mustard™ meeting
+The perfect celebration for your own Docs Triage™ meeting!
